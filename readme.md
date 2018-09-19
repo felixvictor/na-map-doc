@@ -9,19 +9,29 @@
 
 
 ### Table of Contents
+- [Map tools](#map-tools)
   * [Port data](#port-data)
+  * [Plot a course](#plot-a-course)
+- [Menues](#menues)
   * [Wind prediction](#wind-prediction)
   * [Move to F11](#move-to-f11)
+  * [Move to port](#move-to-port)
   * [Search for specific ports](#search-for-specific-ports)
   * [Port battle zones](#port-battle-zones)
   * [Search for goods](#search-for-goods)
   * [Teleport area](#teleport-area)
-  * [Plot a course](#plot-a-course)
-  * [Go to port](#go-to-port)
-  * [Copy F11 x and z coordinates to clipboard](#copy-f11-x-and-z-coordinates-to-clipboard)
-  * [Paste F11 x and z coordinates from clipboard](#paste-f11-x-and-z-coordinates-from-clipboard)
-  * [Get F11 coordinates](#get-f11-coordinates)
+- [Compare tools](#compare-tools)
+  * [Compare ships](#compare-ships)
+  * [Compare woods](#compare-woods)
+  * [List selected items](#list-selected-items)
 
+
+---
+---
+# Map tools
+
+
+---
 ## Port data
 ### How to do it
 Click on a port icon.
@@ -31,6 +41,15 @@ Tantun Cuzamil's port data:
 
 ![Tantun Cuzamil's port data](https://i.imgur.com/fpqSxJE.png?1)
 
+---
+## Plot a course
+
+---
+---
+# Menues
+
+
+---
 ## Wind prediction
 ### How to do it
 1. Enter current in-game wind
@@ -43,6 +62,8 @@ Wind for 16:30 server time is coming from south-south-east.
 
 ![Enter data for wind prediction](https://i.imgur.com/UHTQXpE.png?1)
 
+
+---
 ## Move to F11
 ### How to do it
 1. Sail in open world.
@@ -54,6 +75,19 @@ Wind for 16:30 server time is coming from south-south-east.
 ### Example result
 ![Move to -30/20](https://i.imgur.com/iEWtGL1.png?1)
 
+
+---
+## Move to port
+### How to do it
+Select port in the list or use search fields.
+
+![Select all port with 'la'](https://i.imgur.com/SAR37Xm.png?2)
+
+### Example result
+![La Navasse](https://i.imgur.com/fCW8rMY.png?3)
+
+
+---
 ## Search for specific ports
 ### How to do it
 Select from menu item 'Select ports on':
@@ -74,6 +108,8 @@ Select a Spanish port owning clan:
 
 ![Spanish port owning clans](https://i.imgur.com/3YxP0UI.png?1)
 
+
+---
 ## Port battle zones
 
 ### How to do it
@@ -88,6 +124,8 @@ Port-au-Prince's port battle zone:
 
 ![Port-au-Prince's port battle zone](https://i.imgur.com/WMmlTJz.png?2)
 
+
+---
 ## Search for goods
 ### How to do it
 Select good from menu item 'Select good'
@@ -98,21 +136,40 @@ Select good from menu item 'Select good'
 
 ![Search for goods](https://i.imgur.com/ZJoVEcU.png)
 
+
+---
 ## Teleport area
 
-(indicates the area where you can teleport to this port; deep-water port and not a county capital)
+Indicates the area from where you can open-world teleport to a deep-water port.
 
-## Plot a course
+### How to do it
+1. Select 'Teleport area' in group 'Show layer' from menu item 'Settings'.
+   ![Search for goods](https://i.imgur.com/rGA1l7c.png?1)
+2. Zoom into map.
 
-## Go to port
+### Example result
+Area where from you can open-world teleport to Islamorada:
 
-## Move to F11 coordinates
+![Search for goods](https://i.imgur.com/FwufnLy.png?1)
 
-## Copy F11 x and z coordinates to clipboard
 
-## Paste F11 x and z coordinates from clipboard
+---
+---
+# Compare tools
 
-## Get F11 coordinates
 
-(double click on map)
-()
+---
+## Compare ships
+
+
+---
+## Compare woods
+
+
+---
+## List selected items
+* Buildings
+* Modules
+* Recipes
+* Recipe ingredients
+* Woods
