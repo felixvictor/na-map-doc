@@ -1,19 +1,17 @@
 # How to use Naval Action map
 
 [Naval action map](https://na-map.netlify.com)
-
 [Forum post](https://forum.game-labs.net/topic/23980-yet-another-map-naval-action-map/)
 
 * Data is updated daily during maintenance.
-* Please report any issues or make suggestions in the forum.
+* Please report any issues or make suggestions in the forum post.
 
 
 ### Table of Contents
 - [Map tools](#map-tools)
   * [Port data](#port-data)
-  * [Plot a course](#plot-a-course)
 - [Menues](#menues)
-  * [Wind prediction](#wind-prediction)
+  * [Predict wind](#predict-wind)
   * [Move to F11](#move-to-f11)
   * [Move to port](#move-to-port)
   * [Search for specific ports](#search-for-specific-ports)
@@ -39,28 +37,25 @@ Click on a port icon.
 ### Example result
 Tantun Cuzamil's port data:
 
-![Tantun Cuzamil's port data](https://i.imgur.com/fpqSxJE.png?1)
-
----
-## Plot a course
+![Tantun Cuzamil's port data](https://i.imgur.com/YV2yy18.png)
 
 ---
 ---
-# Menues
+# Menue
 
 
 ---
-## Wind prediction
+## Predict wind
 ### How to do it
 1. Enter current in-game wind
 2. Set predict time (as server time)
 
-![Enter data for wind prediction](https://i.imgur.com/bPP9v9q.png?1)
+![Enter data for wind prediction](https://i.imgur.com/WBwktbA.png)
 
 ### Example result
-Wind for 16:30 server time is coming from south-south-east.
+Wind for 16:30 server time is coming from north.
 
-![Enter data for wind prediction](https://i.imgur.com/UHTQXpE.png?1)
+![Enter data for wind prediction](https://i.imgur.com/L4LiHEZ.png)
 
 
 ---
